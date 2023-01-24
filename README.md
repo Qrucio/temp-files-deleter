@@ -22,5 +22,5 @@ This program is designed to delete all **unnecessary temporary files** from your
 # Additional Information
 
 - The script automatically fetches the paths from the user's computer and specifies the "temp" folder, "%temp%" folder, and "prefetch" folder as the paths to be deleted.
-- It will close after 3 seconds
+- It will close after 5 seconds
 - If you want to change the time before the program closes, you can change the value of the timeout variable in the script.
