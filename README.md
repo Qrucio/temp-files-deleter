@@ -1,3 +1,5 @@
+### --- You need to run the file as administrator for it to access the "prefetch" folder ---
+
 # Temporary Files Deleter
 
 This program is designed to delete all **unnecessary temporary files** from your computer. It will delete files from the following directories:
